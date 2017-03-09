@@ -1,11 +1,11 @@
 <h1>Twitter-Streaming</h1>
 
 
-<h3>Steps:</h3>
+<h2>Steps:</h2>
 
 1- Install Python
 
-2- To to terminal/command prompt and install the "Tweepy" library of Python by using the command: pip install tweepy
+2- Open terminal/command prompt and install the "Tweepy" library of Python by using the command: pip install tweepy
 
 3- Place both files in the same directory
 
