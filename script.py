@@ -14,7 +14,7 @@ class StdOutListener(tweepy.StreamListener):
         # Twitter returns data in JSON format - we need to decode it first
         global con
         global cur
-        global s3
+        #global s3
         # get current hour
         timestamp = datetime.datetime.now().strftime("%Y_%m_%d_%H")
         old_timestamp = (datetime.datetime.now() - datetime.timedelta(hours=1)).strftime("%Y_%m_%d_%H")
