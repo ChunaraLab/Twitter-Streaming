@@ -11,6 +11,6 @@
 
 4- Open config.json and add the consumer and access keys and secrets. These keys and secrets are specific to a user and can be created by visiting https://apps.twitter.com/ , signing in and then creating a new app.
 
-5- Edit line 53 in the code of "script.py" to change/add filters for data streaming
+5- Edit line 53 in the code of "script.py" to change/add filters for data streaming. More details on filtering https://dev.twitter.com/streaming/overview/request-parameters
 
 6- The code creates hourly files containing entire raw jsons downloaded for the Twitter API.
